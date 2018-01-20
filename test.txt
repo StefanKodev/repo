@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 I am a duck 
 updating with new line here
 tortoise
 dots here.....
 I am a horse
+=======
+Updated via GIT BASH
+Updated via Tortoise!
+>>>>>>> 554511acbe737e2915a37f4754e9dac140a6dbaa
